@@ -7,7 +7,7 @@ The system provides the following functionalities:
 
 - Login
 - Logout
-- Browse all book
+- Browse all books
 - Rent a book
 - Pay to the book
 - View specific book information 
